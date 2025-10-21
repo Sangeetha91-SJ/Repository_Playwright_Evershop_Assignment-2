@@ -1,0 +1,5 @@
+Expected Product Name: Playwright Training new
+Expected Product to update the name : Playwright Training new
+Clicked on  Product : Playwright Training new
+Product updated successfully. Updated Product name: Playwright POM Framework
+Alert text: Product saved successfully!

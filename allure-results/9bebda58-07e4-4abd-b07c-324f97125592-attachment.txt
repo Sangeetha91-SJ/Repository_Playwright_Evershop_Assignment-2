@@ -1,0 +1,2 @@
+Alert text: Product saved successfully!
+Created Product Name: Playwright Training new

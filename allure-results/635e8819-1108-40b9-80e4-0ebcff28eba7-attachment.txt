@@ -1,0 +1,11 @@
+product count: 8
+[
+  'Floral Maxi Dress',
+  'Classic Leather Loafers',
+  'Denim Skinny Jeans',
+  'Striped Cotton Sweater',
+  'Test',
+  'Test2',
+  'Playwright POM Framework',
+  'Sangeetha'
+]
