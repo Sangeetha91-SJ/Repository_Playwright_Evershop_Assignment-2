@@ -1,0 +1,36 @@
+{
+  "user": {
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "password": "123456"
+  },
+  "admin": {
+    "email": "admin@admin.com",
+    "password": "admin123"
+  },
+
+   "coupon":{
+    "couponCode":"coupon_New",
+    "description":" coupon new customers",
+    
+    "discount":"500",
+    "minAmount":"1000",
+    "minQyt":"2",
+    "email":"sangeetha91@gmail.com",
+    "amount":"2000"
+},
+ "product":{
+    "ProductName":"Playwright Training new" ,
+    "sku": "SKU_Playwright3",
+    "price":"35000",
+    "weight" : "20"
+
+    
+
+},
+"updateproduct":{
+  "UpdatedName": "Playwright POM Framework"
+}
+
+
+}
